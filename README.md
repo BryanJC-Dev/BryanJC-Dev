@@ -1,70 +1,38 @@
-<h1 align="center">Hola, soy Bryan Jaen 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Bryan%20Jaen&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=IT%20Support%20%7C%20Networking%20%7C%20Linux%20%7C%20Python%20Automation&descAlignY=55&descSize=16" />
+
+<h2 align="center">Estudiante de Ingeniería de Sistemas</h2>
 
 <p align="center">
-Estudiante de Ingeniería de Sistemas | Soporte TI | Redes | SQL Server | C#
+  Perfil orientado a roles de entrada en TI, soporte técnico, redes, Linux y automatización con Python.
+</p>
+
+<p align="center">
+  <a href="mailto:bryan.jaen.c@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bryan.jaen.c%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en Costa Rica.  
-Actualmente estoy desarrollando mis habilidades en soporte técnico, redes, bases de datos y desarrollo de sistemas.
+Soy estudiante de Ingeniería de Sistemas en Costa Rica, enfocado en construir una base sólida para iniciar en el área de TI.
 
-Me interesa iniciar en el área de TI en puestos como soporte técnico, mesa de ayuda, redes o administración básica de sistemas.
+Actualmente estoy aprendiendo y practicando temas relacionados con soporte técnico, redes, sistemas operativos Linux, bases de datos y automatización con Python.
 
----
-
-## Áreas de interés
-
-- Soporte técnico de TI
-- Redes y conectividad
-- SQL Server y bases de datos
-- C# y ASP.NET Core MVC
-- Linux básico
-- Sistemas web
+Mi objetivo es obtener mi primera oportunidad en un puesto de entrada en IT, especialmente en áreas como soporte técnico, mesa de ayuda, redes, NOC, administración básica de sistemas o automatización de tareas.
 
 ---
 
-## Tecnologías que estoy aprendiendo
+## Enfoque profesional
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## Proyectos destacados
-
-### Sistema de inventario
-Sistema desarrollado para el control de productos, stock, movimientos y alertas de inventario.
-
-### Sistema web en ASP.NET Core MVC
-Proyecto académico con módulos de usuarios, roles, permisos, pedidos, inventario e ingresos operativos.
-
-### Base de datos SQL Server
-Prácticas y proyectos relacionados con consultas, procedimientos almacenados, vistas y diseño de bases de datos.
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanJC-Dev&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanJC-Dev&layout=compact&theme=dark" />
-</p>
-
----
-
-## Contacto
-
-- Correo: bryan.jaen.c@gmail.com
-- LinkedIn: próximamente
-- GitHub: BryanJC-Dev
+```txt
+Soporte TI        → resolución de problemas, usuarios, sistemas y equipos
+Redes             → fundamentos de conectividad, IP, DNS, DHCP y troubleshooting
+Linux             → comandos básicos, administración inicial y práctica en terminal
+Python            → automatización de tareas y scripts simples
+SQL Server        → consultas, procedimientos, vistas y manejo de bases de datos
+C# / ASP.NET MVC  → desarrollo de sistemas académicos y proyectos web
