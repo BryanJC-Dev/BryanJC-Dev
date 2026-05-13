@@ -1,67 +1,109 @@
-Hola! 👋 Soy Bryan
-<div align="center"> <img src="./descarga.gif" width="500"/> </div>
-🚀 En construcción...
+# Hola, soy Bryan Jaen 👋
 
-Estudiante de Ingeniería de Sistemas en la Universidad Fidélitas, explorando el mundo de Redes y Soporte TI (NOC/Help Desk).
+<div align="center">
+  <img src="./descarga.gif" width="500" alt="Banner animado de Bryan" />
+</div>
 
-Actualmente no estoy buscando trabajo.
+---
 
-🎯 ¿Qué estoy haciendo?
+## 🚀 En construcción
 
-📚 Terminando mi carrera de Ingeniería de Sistemas (Fidélitas)
+Soy estudiante de **Ingeniería de Sistemas en la Universidad Fidélitas**, actualmente enfocado en aprender y fortalecer mis bases en **Redes, Soporte TI, Linux y Python**.
 
-🌐 Aprendiendo Redes desde cero (CCNA en estudio)
+Estoy construyendo mi perfil técnico poco a poco mediante prácticas, laboratorios y mini-proyectos relacionados con **NOC, Help Desk, redes y automatización básica**.
 
-🧪 Practicando en Cisco Packet Tracer y conceptos básicos de troubleshooting
+> Actualmente no estoy buscando trabajo, pero estoy preparando mi perfil profesional para futuras oportunidades en TI.
 
-🐍 Aprendiendo Python (scripts pequeños)
+---
 
-🐧 Aprendiendo Linux (comandos básicos)
+## 🎯 Qué estoy haciendo actualmente
 
-📁 Subiendo prácticas y mini-proyectos a mi GitHub
+- 📚 Terminando mi carrera de **Ingeniería de Sistemas**
+- 🌐 Aprendiendo **Redes desde cero**
+- 🧠 Estudiando fundamentos relacionados con **CCNA**
+- 🧪 Practicando con **Cisco Packet Tracer**
+- 🔎 Aprendiendo conceptos básicos de **troubleshooting**
+- 🐍 Creando scripts pequeños con **Python**
+- 🐧 Practicando comandos básicos de **Linux**
+- 📁 Subiendo prácticas y mini-proyectos a GitHub
 
-🛠️ Tecnologías que estoy aprendiendo
+---
 
-Redes:
+## 🛠️ Tecnologías y herramientas que estoy aprendiendo
 
-TCP/IP, Subnetting (en progreso)
+### 🌐 Redes
 
-Routing/Switching básico, VLANs (básico)
+- TCP/IP
+- Subnetting
+- Routing y Switching básico
+- VLANs
+- Cisco Packet Tracer
+- Wireshark básico
+- Troubleshooting básico
 
-Cisco Packet Tracer
+### 💻 Sistemas y herramientas
 
-Wireshark (básico)
+- Windows
+- Linux básico
+- Git y GitHub
+- Python básico
+- Terminal / línea de comandos
 
-Sistemas y herramientas:
+### 🗄️ Bases de datos y desarrollo
 
-Windows
+- SQL Server
+- Consultas SQL básicas
+- C# básico
+- ASP.NET MVC en proyectos académicos
 
-Linux básico
+---
 
-Git & GitHub
+## 📂 Proyectos
 
-Python básico (scripting)
+Este espacio se irá llenando conforme avance en mis prácticas y mini-proyectos.
 
-Idiomas:
+Actualmente estoy trabajando en proyectos relacionados con:
 
-Español (Nativo)
+- Laboratorios de redes en Cisco Packet Tracer
+- Prácticas de soporte técnico
+- Scripts básicos de automatización con Python
+- Sistemas académicos usando C#, ASP.NET MVC y SQL Server
 
-Inglés (Intermedio)
+> Por ahora está en crecimiento, pero la idea es convertir este GitHub en un portafolio técnico real.
 
-📂 Proyectos
+---
 
-Este espacio se irá llenando conforme vaya creando prácticas y mini-proyectos de redes y soporte TI.
+## 🎓 Educación
 
-Por ahora está medio vacío, pero va a mejorar 😅
+**Ingeniería de Sistemas**  
+Universidad Fidélitas  
+📅 En curso  
+🎯 Graduación prevista: diciembre 2026
 
-🎓 Educación
+---
 
-Ingeniería de Sistemas – Universidad Fidélitas (En curso, graduación prevista: dic. 2026)
+## 🌎 Ubicación
 
-📍 Ubicación
+📍 Santa Cruz, Guanacaste, Costa Rica 🇨🇷
 
-Santa Cruz, Guanacaste, Costa Rica 🇨🇷
+---
 
-📫 Contacto
+## 🌐 Idiomas
 
-Email: bryan.jc.tech@gmail.com
+- Español: Nativo
+- Inglés: Intermedio
+
+---
+
+## 📫 Contacto
+
+- Email: **bryan.jaen.c@gmail.com**
+- GitHub: [BryanJC-Dev](https://github.com/BryanJC-Dev)
+
+---
+
+<div align="center">
+
+### Gracias por visitar mi perfil 👨‍💻
+
+</div>
