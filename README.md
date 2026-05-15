@@ -1,5 +1,3 @@
-# Hola, soy Bryan Jaen
-
 <div align="center">
   <img src="descarga.gif" width="450" alt="Banner de Bryan Jaen" />
 </div>
