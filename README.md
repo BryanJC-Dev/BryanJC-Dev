@@ -6,17 +6,15 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Fidélitas, con interés en soporte TI, redes, Linux y automatización básica con Python.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Fidélitas, con interés en el análisis de datos, bases de datos, visualización de información y automatización básica con Python.
 
-Actualmente estoy fortaleciendo mis bases técnicas mediante prácticas, laboratorios y mini-proyectos relacionados con redes, soporte técnico y administración básica de sistemas.
+Actualmente estoy fortaleciendo mis habilidades mediante prácticas, laboratorios y mini-proyectos relacionados con Excel, SQL, Python y Power BI, con el objetivo de analizar datos, crear reportes y apoyar la toma de decisiones mediante información clara y organizada.
 
 ---
 
 ## Enfoque actual
 
-- Excel
-- SQL
-- Python 
-- Power BI
-
-
+- Excel para limpieza, organización y análisis de datos
+- SQL para consultas y manejo de bases de datos
+- Python para automatización y análisis básico
+- Power BI para creación de dashboards y visualización de datos
