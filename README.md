@@ -14,20 +14,9 @@ Actualmente estoy fortaleciendo mis bases técnicas mediante prácticas, laborat
 
 ## Enfoque actual
 
-- Ingeniería de Sistemas en curso
-- Fundamentos de redes y CCNA
-- Prácticas en Cisco Packet Tracer
-- Troubleshooting básico
-- Linux básico
-- Python para scripts simples
-- Git y GitHub
+- Excel
+- SQL
+- Python 
+- Power BI
 
----
 
-## Tecnologías y herramientas
-
-```txt
-Redes:        TCP/IP, Subnetting, VLANs, Routing/Switching básico
-Herramientas: Cisco Packet Tracer, Wireshark, Git, GitHub
-Sistemas:     Windows, Linux básico
-Programación: Python básico, SQL básico
