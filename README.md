@@ -6,15 +6,19 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Fidélitas, con interés en el análisis de datos, bases de datos, visualización de información y automatización básica con Python.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Fidélitas, con interés en redes, infraestructura TI, soporte técnico, administración de sistemas y fundamentos de ciberseguridad.
 
-Actualmente estoy fortaleciendo mis habilidades mediante prácticas, laboratorios y mini-proyectos relacionados con Excel, SQL, Python y Power BI, con el objetivo de analizar datos, crear reportes y apoyar la toma de decisiones mediante información clara y organizada.
+Actualmente estoy fortaleciendo mis habilidades mediante prácticas, laboratorios y mini-proyectos relacionados con redes, configuración de dispositivos, direccionamiento IP, troubleshooting, Linux, Windows Server y herramientas como Cisco Packet Tracer y Wireshark.
+
+Mi objetivo es iniciar en un rol técnico de entrada como Soporte TI, Técnico de Redes Junior, NOC Junior o Infraestructura TI, para seguir creciendo profesionalmente hacia áreas como redes, cloud o ciberseguridad.
 
 ---
 
 ## Enfoque actual
 
-- Excel para limpieza, organización y análisis de datos
-- SQL para consultas y manejo de bases de datos
-- Python para automatización y análisis básico
-- Power BI para creación de dashboards y visualización de datos
+- Fundamentos de redes: TCP/IP, subnetting, VLANs, routing y switching
+- Cisco Packet Tracer para prácticas de configuración y simulación de redes
+- Troubleshooting de conectividad y resolución de problemas básicos
+- Linux y Windows para administración básica de sistemas
+- Wireshark para análisis básico de tráfico de red
+- CCNA como base para fortalecer conocimientos en redes
